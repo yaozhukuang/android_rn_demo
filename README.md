@@ -1,6 +1,9 @@
 # android_rn_demo
 原生Android集成RN，并且实现热更新
 
+先上图
+
+
 
 Test为Android原生项目，用Android Studio打开即可
 rn为react native 目录，如果Test和rn不是同级目录的话需要相应的修改Test根目录下build.gradle中依赖rn的相对路径
