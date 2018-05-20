@@ -2,6 +2,8 @@
 原生Android集成RN，并且实现热更新
 
 先上图
+
+
 ![](https://github.com/yaozhukuang/android_rn_demo/blob/master/hotfix.gif)
 
 
